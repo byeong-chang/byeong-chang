@@ -6,6 +6,8 @@
 
 > Python algorithm
 
+> DataBase
+
 ### Baekjoon Tier
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=als6068)](https://solved.ac/als6068)
 
