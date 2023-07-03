@@ -1,12 +1,12 @@
 ### This github started on 2023 January 1st
-> Hi i'm student to study Data Engineering
+> Hi i'm student to study Data Engineering & Backend
 
 ### Interest
 > Data Engineering
 
 > Python algorithm
 
-> DataBase
+> Backend
 
 ### Baekjoon Tier
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=als6068)](https://solved.ac/als6068)
