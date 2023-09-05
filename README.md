@@ -1,5 +1,5 @@
 ### This github started on 2023 January 1st
-> Hi i'm student to study Data Engineering & Backend
+> Hello i'm student to study Data Engineering & Backend
 
 ### Interest
 > Data Engineering
@@ -11,18 +11,5 @@
 ### Baekjoon Tier
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=als6068)](https://solved.ac/als6068)
 
-
-<!--
-**byeong-chang/byeong-chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![byeong-chang's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeong-chang&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeong-chang&show_icons=true&theme=radical)
+  
